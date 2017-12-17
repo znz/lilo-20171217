@@ -1,4 +1,4 @@
-# lilo.linux.or.jp の話 (2017年8月)
+# lilo.linux.or.jp の話 (2017年12月)
 
 前回の発表以降の lilo.linux.or.jp の管理の話をします。
 
